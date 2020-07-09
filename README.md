@@ -1,5 +1,7 @@
 # TableauVizCompare
 Excel + Python + Selenium Tool to capture and compare before and after images from Tableau Server
+Tableau Serverで更新前後のシート画像をキャプチャーして比較するツール (Excel + Python + Selenium)
+https://blog.truestar.co.jp/tableau/20200703/40296/
 
 ## 必要環境
 * Microsoft Excel
